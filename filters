@@ -1,0 +1,16 @@
+! May 7, 2025 https://forum.jrockone.com
+
+! May 7, 2025 https://forum.jrockone.com
+||cdn.jrockone.com/*er_avatar*.png$image
+forum.jrockone.com##.row > .clearfix.topic-body > .topic-meta-data > .trigger-user-card.names > .username.first
+forum.jrockone.com##.row > .clearfix.topic-body > .topic-meta-data > .trigger-user-card.names > .user-title--regular.user-title
+||cdn.jrockone.com/images/emoji$image
+forum.jrockone.com##.row > .clearfix.topic-body > .topic-meta-data > .post-infos > .reply-to-tab > span
+forum.jrockone.com##.old.new-user.post-notice > p
+forum.jrockone.com##.new-user.post-notice
+forum.jrockone.com##.row > .clearfix.topic-body > .contents.regular > .cooked > .no-group.quote > .title
+forum.jrockone.com##.row > .clearfix.topic-body > .contents.regular > .clearfix.post-menu-area > .collapsed.post-controls > .actions > .double-button > .btn-flat.regular-likes.highlight-action.button-count.like-count.post-action-menu__like-count.no-text.btn
+forum.jrockone.com##.expanded.post-controls > .actions > div.double-button > .btn-flat.regular-likes.highlight-action.button-count.like-count.post-action-menu__like-count.no-text.btn
+forum.jrockone.com##.old.returning-user.post-notice
+forum.jrockone.com##.embedded-reply.topic-meta-data > .trigger-user-card.names
+forum.jrockone.com##.user-online.topic-avatar
