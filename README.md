@@ -1,2 +1,2 @@
 # filters
-for a certain forum since I dislike most of the people there
+for a certain forum
